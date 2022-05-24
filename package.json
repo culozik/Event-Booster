@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/Uberdar/Team_New_JS_Project",
+  "homepage": "https://github.com/culozik/Event-Booster",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Team_New_JS_Project/"
